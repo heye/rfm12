@@ -1,0 +1,11 @@
+megaRF	KEYWORD1
+tick	KEYWORD2
+tickOnly	KEYWORD2
+send	KEYWORD2
+waitAndSend	KEYWORD2
+warmup	KEYWORD2
+getByte	KEYWORD2
+onReceive	KEYWORD2
+getBuffer	KEYWORD2
+numberOfBytes	KEYWORD2
+RF KEYWORD2
